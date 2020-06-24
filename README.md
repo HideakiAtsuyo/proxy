@@ -2,7 +2,7 @@
 
 
 Limited but can be used for free:<br><br>APIs:<br>- https://api.getproxylist.com/proxy
-<br>- https://gimmeproxy.com/api/getProxy<br>- http://pubproxy.com/api/proxy<br><br>Links:<br>
+<br>- https://gimmeproxy.com/api/getProxy<br>- http://pubproxy.com/api/proxy<br>https://www.proxy-list.download/api/v1/get?type=https (https://www.proxy-list.download/api/v1)<br><br>Links:<br>
 https://premproxy.com/socks-list/ip-port/3.htm<br>
 https://proxyscrape.com/proxies/SocksProxies.txt<br>
 https://premproxy.com/socks-list/ip-port/9.htm<br>
