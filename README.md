@@ -2,35 +2,19 @@
 
 
 Limited but can be used for free:<br><br>APIs:<br>- https://api.getproxylist.com/proxy
-<br>- https://gimmeproxy.com/api/getProxy<br>- http://pubproxy.com/api/proxy<br>- https://www.proxy-list.download/api/v1/get?type=https (https://www.proxy-list.download/api/v1)<br><br>Links:<br>
-https://premproxy.com/socks-list/ip-port/3.htm<br>
-https://proxyscrape.com/proxies/SocksProxies.txt<br>
-https://proxyscrape.com/free-proxy-list<br>
-https://premproxy.com/socks-list/ip-port/9.htm<br>
-https://premproxy.com/socks-list/ip-port/8.htm<br>
-https://premproxy.com/socks-list/ip-port/1.htm<br>
-https://premproxy.com/socks-list/ip-port/6.htm<br>
-https://premproxy.com/socks-list/ip-port/5.htm<br>
-http://proxy-daily.com/proxy/getproxymanual.php?limit=50000&filter=socks5<br>
-http://proxy-daily.com/proxy/getproxymanual.php?limit=50000&filter=socks4<br>
-https://premproxy.com/socks-list/ip-port/4.htm<br>
+<br>- https://gimmeproxy.com/api/getProxy<br>- http://pubproxy.com/api/proxy<br>- https://www.proxy-list.download/api/v1/get?type=https (https://www.proxy-list.download/api/v1)<br><br>Links:<br>https://www.proxyscan.io/<br>https://proxy-daily.com/<br>https://free-proxy-list.net/<br>http://www.freeproxylists.net/fr/<br>https://proxyscrape.com/free-proxy-list<br><br>
+https://premproxy.com/<br>
 http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks<br>
-https://premproxy.com/socks-list/ip-port/2.htm<br>
-https://premproxy.com/socks-list/ip-port/10.htm<br>
-https://premproxy.com/socks-list/ip-port/7.htm<br>
 https://www.proxydocker.com/en/proxylist/search?port=All&type=All&anonymity=All&country=All&city=All&state=All&need=Google<br>
-https://proxydb.net/?offset=150<br>
-https://proxydb.net/?offset=105<br>
+https://proxydb.net/<br>
 http://nntime.com/proxy-updated-06.htm<br>
-https://www.proxydocker.com/en/proxylist/type/HTTPS<br>
+https://www.proxydocker.com/<br>
 https://freevpn.ninja/free-proxy/txt<br>
 http://proxytime.ru/http<br>
 http://nntime.com/proxy-updated-07.htm<br>
 http://premiumproxy.net<br>
-https://premproxy.com/list/{01-15}.htm<br>
 https://www.proxydocker.com/en/proxylist/port/80<br>
 https://proxydb.net/?offset=60<br>
-https://www.proxydocker.com/en/proxylist/port/8081<br>
 http://free-proxy-list.net/anonymous-proxy.html<br>
 http://nntime.com/proxy-updated-10.htm<br>
 http://sslproxies24.blogspot.in/feeds/posts/default<br>
@@ -65,7 +49,6 @@ https://www.proxydocker.com/en/proxylist/port/3128<br>
 http://nntime.com/proxy-updated-05.htm<br>
 http://nntime.com/proxy-updated-09.htm<br>
 http://nntime.com/proxy-updated-01.htm<br>
-https://premproxy.com/socks-list/{01-20}.htm<br>
 https://www.proxydocker.com/en/proxylist/port/10000<br>
 https://www.proxydocker.com/en/proxylist/port/8085<br>
 http://freshssh-list2018.blogspot.com/feeds/posts/default<br>
